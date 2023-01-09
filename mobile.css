@@ -1,0 +1,318 @@
+@media (max-width: 768px) {
+  .container {
+    padding-left: 35px;
+  }
+  .black-logo {
+    margin-top: 36px;
+    width: 52.19px;
+    height: 30.75px;
+    margin-bottom: 45px;
+  }
+  .nav-item img {
+    width: 10.25px;
+    height: 9.79px;
+    margin-right: 5px;
+  }
+  .nav-item {
+    font-size: 10px;
+  }
+  .course {
+    font-size: 26px;
+    line-height: 26px;
+    margin-top: 75px;
+    height: 43px;
+  }
+  h1 {
+    font-size: 37px;
+    max-width: 292px;
+    line-height: 37px;
+    margin-bottom: 14px;
+    padding: 0;
+  }
+  h2 {
+    font-size: 26px;
+  }
+  .text1 {
+    font-size: 10px;
+    max-width: 212px;
+    line-height: 15px;
+  }
+  .main-image {
+    width: 141.66px;
+    height: 165.89px;
+    margin-left: 166px;
+  }
+  .hero {
+    flex-direction: column;
+    margin-bottom: 47px;
+  }
+  .shadow {
+    width: 127.68px;
+    height: 19.1px;
+    left: 182px;
+    top: 157px;
+  }
+  .special {
+    margin-top: 0;
+    width: 225.36px;
+    height: 93.19px;
+    margin: 0;
+    padding: 8px 12.59px 0 12px;
+    margin-left: 2px;
+  }
+  .word {
+    font-size: 11px;
+    line-height: 14px;
+    padding: 0;
+  }
+  .special .name {
+    font-size: 10px;
+    line-height: 13px;
+    margin-top: 6px;
+    margin-bottom: 3px;
+  }
+  .mobile-hidden {
+    display: none;
+  }
+  .text {
+    font-size: 12px;
+    margin-top: 8px;
+    max-width: 308px;
+  }
+  .about {
+    flex-direction: column;
+  }
+  .videographer {
+    width: 146.32px;
+    height: 146.78px;
+    margin: 16px auto 59px 77px;
+  }
+  .shadow2 {
+    width: 170.55px;
+    height: 27.49px;
+    left: 65px;
+    top: 149px;
+  }
+  .operator-man {
+    display: none;
+  }
+  .week {
+    font-size: 12px;
+    line-height: 15px;
+    height: 18px;
+  }
+  .duration {
+    font-size: 10px;
+    line-height: 13px;
+    display: block;
+  }
+  .year {
+    width: 86px;
+    margin-right: 33px;
+    margin-bottom: 25px;
+  }
+  .universal {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .time {
+    flex-wrap: wrap;
+    max-width: 305px;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  .format {
+    margin-top: 45px;
+    line-height: 26px;
+  }
+  .classes {
+    font-size: 12px;
+    line-height: 15px;
+    height: 18px;
+  }
+  .about-course {
+    font-size: 10px;
+    line-height: 13px;
+
+    display: block;
+    width: 170px;
+    margin-bottom: 25px;
+  }
+  .classnames {
+    flex-direction: column;
+  }
+  .learn {
+    margin-top: 48px;
+    height: 43px;
+    margin-bottom: 10px;
+  }
+  .row ul {
+    padding-left: 9px;
+    margin: 0;
+  }
+  .row li {
+    font-size: 12px;
+    line-height: 18px;
+    max-width: 299px;
+  }
+  .row li::marker {
+    font-size: 6px;
+  }
+  .program {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .program h2 {
+    margin-left: 34px;
+    margin-top: 70px;
+    margin-bottom: 0;
+  }
+  .button {
+    width: 185.92px;
+    height: 152.84px;
+    border-radius: 13px;
+  }
+  .number {
+    font-size: 14px;
+    margin-bottom: 14px;
+  }
+  .date {
+    font-size: 12px;
+    margin-top: 0;
+  }
+  .bottom {
+    padding-left: 9px;
+    padding-top: 5px;
+    padding-bottom: 0;
+  }
+  .last {
+    margin-bottom: 0;
+  }
+  .buttons {
+    padding-left: 96px;
+    padding-bottom: 47px;
+  }
+  .button1 {
+    max-width: 308px;
+    padding: 18px 21px 13px;
+    margin: 0;
+    border-radius: 13px;
+  }
+  .feedback {
+    font-size: 10px;
+    line-height: 15px;
+    padding: 0;
+    margin-bottom: 0;
+  }
+  .people {
+    margin-top: 0;
+    padding: 42px 32px 53px 36px;
+  }
+  .students {
+    padding: 0;
+    max-width: 257px;
+    margin-bottom: 11px;
+  }
+  .woman-pic {
+    height: 84px;
+    margin-right: 13px;
+  }
+  .woman {
+    padding-left: 0;
+    padding-bottom: 0;
+  }
+  .facebook {
+    width: 17px;
+    height: 17px;
+  }
+  .woman .name {
+    font-size: 14px;
+    line-height: 14px;
+    margin-top: 16px;
+    height: 32px;
+    padding-right: 0;
+  }
+  .information {
+    margin: 0;
+  }
+  .price {
+    padding: 62px 32px 63px 36px;
+  }
+  .text2 {
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .amount {
+    font-size: 37px;
+    line-height: 37px;
+    margin-bottom: 36px;
+    height: 74px;
+  }
+  .layout {
+    font-size: 12px;
+    line-height: 12px;
+    margin-bottom: 7px;
+  }
+  .layout-item {
+    font-size: 10px;
+    line-height: 10px;
+  }
+  .begin-course {
+    padding: 0;
+    width: 224px;
+    margin-bottom: 22px;
+    line-height: 26px;
+    margin-right: 0;
+  }
+  .level1 {
+    max-width: 140px;
+    margin-right: 31px;
+  }
+  footer {
+    padding: 23px 32px 10px 36px;
+  }
+  .footer-content {
+    flex-direction: column;
+  }
+  .white-logo {
+    width: 53.59px;
+    height: 31.69px;
+    margin-bottom: 13px;
+    margin-top: 0;
+  }
+  .logos img {
+    width: 15.38px;
+    height: 15.38px;
+    margin-right: 10px;
+    margin-bottom: 47px;
+  }
+  .logos {
+    margin-right: 0;
+  }
+  .social {
+    margin-bottom: 0;
+  }
+  .right-side {
+    margin: 0;
+  }
+  .connection {
+    margin-bottom: 0;
+    margin-bottom: 2px;
+  }
+  .connection img {
+    width: 12.58px;
+    height: 10.58px;
+    margin-right: 10px;
+  }
+  .connection span {
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0;
+  }
+  .sync {
+    font-size: 10px;
+    line-height: 10px;
+    margin-top: 57px;
+    height: 19px;
+  }
+}
